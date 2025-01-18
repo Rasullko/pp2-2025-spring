@@ -1,0 +1,6 @@
+a=bool("abc")
+b=bool("123")
+c=bool("")
+print(a)
+print(b)
+print(c)
